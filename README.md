@@ -1,7 +1,7 @@
 README
 ======
 
-First things first
+First things first 啥
 ------------------
 
 Learn [Markdown](https://help.github.com/articles/github-flavored-markdown)! Then check out MDwiki's [quick start](http://dynalon.github.io/mdwiki/#!quickstart.md).
